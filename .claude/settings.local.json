@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find . -name \"CLAUDE.md\" -o -name \"claude.md\" 2>/dev/null)"
+    ],
+    "deny": []
+  }
+}
